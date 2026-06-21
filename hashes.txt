@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Besos de luna plateada
+
+This log tracks the cryptographic history and versioning for the song **Besos de luna plateada** (besos-de-luna-plateada).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T04:07:09.648730 | `v1` | `0adfe8a2f6bceeb7c0665b0f01a8551c27aa91fc6f857a20fc4c51eb9f6f3b31` | `e9feeac62eaedf2c33794d86f150177f50cf054e4609829bbc91961aba2d1d48` | `2026-06-22_besos-de-luna-plateada-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
