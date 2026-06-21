@@ -15,7 +15,7 @@
 | **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-de-luna-plateada/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Besos de luna plateada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-luna-plateada/) |
+| **Get License** | [Obtain a Music License for Besos de luna plateada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-luna-plateada/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -115,8 +115,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `0adfe8a2f6bceeb7c0665b0f01a8551c27aa91fc6f857a20fc4c51eb9f6f3b31` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `4d20a17063d3d867e2abb12586c232d8d378c47b675d5b416e1ea98ffb941d33` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
