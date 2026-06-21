@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-de-luna-plateada/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Besos de luna plateada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-luna-plateada/) |
+| **Get License** | [Music Rights & Licensing for Besos de luna plateada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-luna-plateada/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bajo la luna plateada, paso a robarte un beso
+> En medio de la calle oscura, a ti yo me confieso
+> Ese perfume fino tuyo me tiene en exceso
+> Got me addicted to your love, ya no hay retroceso
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
