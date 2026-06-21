@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Besos de luna plateada |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-de-luna-plateada/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Besos de luna plateada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-luna-plateada/) |
+| **Get License** | [Get License For Besos de luna plateada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-luna-plateada/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Bajo la luna plateada, paso a robarte un beso
-> En medio de la calle oscura, a ti yo me confieso
-> Ese perfume fino tuyo me tiene en exceso
-> Got me addicted to your love, ya no hay retroceso
+> Beso' de luna plateada en tu piel
+> Noches de Madrid que no olvido ni ayer
+> Tu cadera llama, no puedo perder
+> Este fuego lento que nos hace enloquecer
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
